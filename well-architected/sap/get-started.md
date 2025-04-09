@@ -8,7 +8,7 @@ ms.topic: conceptual
 
 ---
 
-# SAP workload
+# SAP workload guidance
 
 SAP is one of the world’s leading producers of software solutions for business management and customer operations. SAP provides a suite of powerful applications that you can configure to meet specific environment and organizational needs. These applications facilitate data processing and information flow across organizations and provide critical capabilities that drive key organizational functions.
 
